@@ -1,1 +1,3 @@
 # Azure template
+
+Some text
